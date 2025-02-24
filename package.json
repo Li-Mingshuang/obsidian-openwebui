@@ -1,14 +1,14 @@
 {
-    "name": "obsidian-openwebui",
+    "name": "openwebui",
     "version": "1.0.0",
-    "description": "在 Obsidian 中集成 OpenWebUI",
+    "description": "在 Open WebUI 中集成 AI 助手功能",
     "main": "main.js",
     "scripts": {
         "dev": "node esbuild.config.mjs",
         "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
     },
-    "keywords": ["obsidian", "plugin", "openwebui"],
-    "author": "Your Name",
+    "keywords": ["plugin", "openwebui"],
+    "author": "Li-Mingshuang",
     "license": "MIT",
     "devDependencies": {
         "@types/node": "^16.11.6",
