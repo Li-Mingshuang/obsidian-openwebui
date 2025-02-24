@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-openwebui",
+    "name": "OpenWebUI",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "在 Obsidian 中集成 OpenWebUI，提供 AI 助手功能",
+    "author": "Your Name",
+    "authorUrl": "https://github.com/Li-Mingshuang",
+    "isDesktopOnly": true
+} 
