@@ -1,7 +1,7 @@
 {
     "name": "openwebui",
     "version": "1.0.0",
-    "description": "在 Open WebUI 中集成 AI 助手功能",
+    "description": "Integrate AI assistant functionality with Open WebUI",
     "main": "main.js",
     "scripts": {
         "dev": "node esbuild.config.mjs",
